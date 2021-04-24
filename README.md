@@ -9,6 +9,7 @@ Launcher for windows games. Works with various Frontends
 - Windows Launcher.ini holds game - path, exe, and args. Section names should be "GameName". (How it appears in the frontend)
   - Examples are included in the ini.
   - Section names in the example would be assuming the Games show up as "Quake MyMod1" and "Quake MyMod2" in the Frontend
+  - ini file must be in the same folder as the launcher executable
 <br/>
 
 Launch command for Pegasus:<br/>
